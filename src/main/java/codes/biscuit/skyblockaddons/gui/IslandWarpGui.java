@@ -389,6 +389,7 @@ public class IslandWarpGui extends GuiScreen {
         DWARVEN_FORGE("forge", "Forge", Island.DEEP_CAVERNS, true, 260, 280),
         CRYSTAL_HOLLOWS("crystals", "Crystal Hollows", Island.DEEP_CAVERNS, true, 220, 350),
         CRYSTAL_NUCLEUS("nucleus", "Crystal Nucleus", Island.DEEP_CAVERNS, true, 170, 380),
+	GLACITE_TUNNELS("glacite", "Glacite Tunnels", Island.DEEP_CAVERNS, true, 100, 300),
 
         DUNGEON_HUB_ISLAND("dungeon_hub", Translations.getMessage("warpMenu.spawn"), Island.DUNGEON_HUB, false, 35, 80),
         ;
